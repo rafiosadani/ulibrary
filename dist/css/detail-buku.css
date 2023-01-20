@@ -1,0 +1,59 @@
+#detail {
+    padding: 40px 0;
+}
+#buku h3 {
+    margin-top: 60px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#buku p {
+    margin-top: 40px;
+    text-align: justify;
+}
+
+#ulasan h3 {
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 23px;
+    padding-bottom: 13px;
+}
+
+#detail-buku .judul {
+    margin-top: 40px;
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+
+#detail-buku .judul-buku {
+    font-size: 28px;
+}
+
+#detail-buku .text-sinopsis {
+    text-align: justify;
+    padding: 0px 15px;
+}
+
+#detail-buku .list-group .active {
+    background-color: #3C096C;
+}
+
+#ulasan .img-ulasan {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    border: 1px solid #3C096C;
+}
+
+#ulasan .nama-ulasan,
+#ulasan .deskripsi-ulasan {
+    font-size: 14px;
+    text-align: justify;
+}
+
+#ulasan .tanggal-ulasan {
+    font-size: 11px;
+}

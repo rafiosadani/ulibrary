@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-bg {
+    background-color: #3C096C;
+}
+
+.logo-ulibrary {
+    width: 200px;
+}
+
+nav .navbar-toggler {
+    color: white;
+}
+
+/* nav .navbar-toggler-icon {
+    border-color: white;
+} */
+
+.nav-list ul li a {
+    color: white;
+    font-size: 16px;
+}
+
+.nav-list ul li {
+    margin-right: 30px;
+}
+
+.nav-list .btn-sign-in {
+    background-color: #FF8500;
+    font-weight: bold;
+    border: 1px solid #FF8500;
+}
+
+.nav-item .nav-link {
+    color: white;
+}
+
+.nav-item .nav-link:hover {
+    color: #FF8500;
+}
+
+.nav-item .nav-link:focus {
+    color: #FF8500;
+}
+
+.dropdown-menu {
+    background-color: #3C096C;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #FF8500;
+    background-color: #3C096C;
+}
+
+#slider .carousel-item img {
+    height: 600px;
+}
+
+#kategori-buku {
+    padding: 40px 0;
+}
+
+#kategori-buku h2 {
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+#kategori-buku .kotak {
+    width: 108px;
+    height: 108px;
+    padding: 7px;
+    background-color: #D2D2D2;
+    border-radius: 30px 30px 30px 30px;
+    border: 4px solid #5A189A;
+}
+
+#kategori-buku .bungkus-icon {
+    /* padding-bottom: -100px; */
+    width: 65px;
+    height: 65px;
+    background-color: #D2D2D2;
+    border-radius: 100%;
+    border: 1px solid #5A189A;
+    margin: auto;
+}
+
+#kategori-buku .bungkus-icon img {
+    height: 45px;
+    margin: 7px;
+}
+
+#kategori-buku .kotak a {
+    text-decoration: none;
+    margin: auto;
+}
+
+#kategori-buku .kotak p {
+    /* margin-top: 30px;
+    margin-bottom: 30px; */
+    font-size: 17px;
+    font-weight: bold;
+    color: #3C096C;
+}
+
+#after-kategori-buku {
+    padding: 50px 0;
+    height: 220px;
+    background-image: url('../img/after-kategori-buku.png');
+}
+
+#after-kategori-buku p {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+#populer {
+    padding: 40px 0;
+}
+
+#populer h2 {
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+#populer .card {
+    box-shadow: 0px 31px 9px rgba(0, 0, 0, 0.01), 0px 20px 8px rgba(0, 0, 0, 0.05), 0px 11px 7px rgba(0, 0, 0, 0.18), 0px 5px 5px rgba(0, 0, 0, 0.3), 0px 1px 3px rgba(0, 0, 0, 0.34), 0px 0px 0px rgba(0, 0, 0, 0.35);
+}
+
+#populer .card,
+#populer .list-group-item {
+    background-color: #D2D2D2;
+}
+
+#populer .card-buku .card-body {
+    color: #3C096C;
+}
+
+#populer .img-size {
+    height: 275px;
+}
+
+#populer .card-buku .card-body h5 {
+    font-weight: bold;
+}
+
+
+#populer .detail {
+    float: right;
+}
+
+#populer .detail a {
+    text-decoration: none;
+    width: 84px;
+    background-color: #FF8500;
+}
+
+#populer .detail a:hover {
+    color: white;
+}
+
+#buku-terbaru h2 {
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+#buku-terbaru .card,
+#buku-terbaru .list-group-item {
+    background-color: #D2D2D2;
+}
+
+#buku-terbaru .card-buku .card-body {
+    color: #3C096C;
+}
+
+#buku-terbaru .img-size {
+    height: 275px;
+}
+
+#buku-terbaru .card-buku .card-body h5 {
+    font-weight: bold;
+}
+
+#buku-terbaru .detail {
+    float: right;
+}
+
+#buku-terbaru .detail a {
+    text-decoration: none;
+    width: 84px;
+    background-color: #FF8500;
+}
+
+#buku-terbaru .detail a:hover {
+    color: white;
+}
+
+#buku-terbaru .card {
+    box-shadow: 0px 31px 9px rgba(0, 0, 0, 0.01), 0px 20px 8px rgba(0, 0, 0, 0.05), 0px 11px 7px rgba(0, 0, 0, 0.18), 0px 5px 5px rgba(0, 0, 0, 0.3), 0px 1px 3px rgba(0, 0, 0, 0.34), 0px 0px 0px rgba(0, 0, 0, 0.35);
+}
+
+#before-footer {
+    padding: 40px 0;
+    color: white;
+    background-image: url('../img/before-footer.png');
+}
+
+#before-footer h3 {
+    font-weight: bold;
+}
+
+/* #before-footer .box1 {
+    padding: 20px;
+} */
+
+#before-footer .box1 img {
+    width: 310px;
+}
+
+#before-footer .box1 p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+#before-footer .box2 {
+    padding-top: 40px;
+    /* padding-left: 100px; */
+}
+
+#before-footer .box2 p {
+    margin-top: 20px;
+}
+
+#before-footer .box2 a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+#before-footer .box2 a:hover {
+    color: #FF8500;
+}
+
+#before-footer .box3 {
+    padding-top: 40px;
+    /* padding-left: 50px; */
+}
+
+#before-footer .box3 p {
+    margin-top: 20px;
+}
+
+footer {
+    height: 60px;
+    /* padding: 10px; */
+    background-color: #000000;
+}
+
+footer .copyright {
+    line-height: 60px;
+    font-size: 18px;
+    color: #F2F2F7;
+    text-align: center;
+}

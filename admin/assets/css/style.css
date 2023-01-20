@@ -1,0 +1,14 @@
+.detail {
+    float: right;
+}
+
+.detail a {
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 44px;
+    background-color: #FF8500;
+}
+
+.detail a:hover {
+    color: white;
+}

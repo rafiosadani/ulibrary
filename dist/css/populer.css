@@ -1,0 +1,41 @@
+#populer .judul {
+    /* margin-top: 20px; */
+    color: #3C096C;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+#populer .card {
+    box-shadow: 0px 31px 9px rgba(0, 0, 0, 0.01), 0px 20px 8px rgba(0, 0, 0, 0.05), 0px 11px 7px rgba(0, 0, 0, 0.18), 0px 5px 5px rgba(0, 0, 0, 0.3), 0px 1px 3px rgba(0, 0, 0, 0.34), 0px 0px 0px rgba(0, 0, 0, 0.35);
+}
+
+#populer .card,
+#populer .list-group-item {
+    background-color: #D2D2D2;
+}
+
+#populer .card-buku .card-body {
+    color: #3C096C;
+}
+
+#populer .card-buku .card-body h5 {
+    font-weight: bold;
+}
+
+#populer .img-size {
+    height: 275px;
+}
+
+#populer .detail {
+    float: right;
+}
+
+#populer .detail a {
+    text-decoration: none;
+    width: 84px;
+    background-color: #FF8500;
+}
+
+#populer .detail a:hover {
+    color: white;
+}

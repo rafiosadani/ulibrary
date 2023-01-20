@@ -1,0 +1,125 @@
+.containerdua{
+    position: relative;
+    margin-top: 50px;
+    width: 23%;
+    height: 40px;
+    /* border: 5px solid blue; */
+}
+
+.kedua{
+    border-radius: 30px;
+    width: 100%;
+    height: 60px;
+    background-color: #3C096C;
+}
+
+.kedua h2{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.ketiga{
+    background-color: #e2d3d3;
+    padding-bottom: 3px;
+    padding-top: 3px;   
+    width: 70%;
+    border-radius: 30px;
+}
+
+.ketiga p {
+    font-size: 18px;
+    margin-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+    color: #3C096C;
+}
+
+.containertiga{
+    position: relative;
+    margin-top: 50px;
+    width: 10%;
+    height: 40px;
+    /* border: 5px solid blue; */
+}
+
+.keempat{
+    border-radius: 30px;
+    width: 100%;
+    height: 60px;
+    background-color: #3C096C;
+}
+
+.keempat h1{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.kelima{
+    background-color: #e2d3d3;
+    padding-bottom: 3px;
+    padding-top: 3px;   
+    width: 70%;
+    border-radius: 30px;
+}
+
+.kelima p {
+    font-size: 18px;
+    margin-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+    color: #3C096C;
+}
+
+.containerempat{
+    position: relative;
+    margin-top: 50px;
+    width: 10%;
+    height: 40px;
+    /* border: 5px solid blue; */
+}
+
+.keenam{
+    border-radius: 30px;
+    width: 100%;
+    height: 60px;
+    background-color: #3C096C;
+}
+
+.keenam h1{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.ketujuh{
+    background-color: #e2d3d3;
+    padding-bottom: 3px;
+    padding-top: 3px;   
+    width: 70%;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.ketujuh p {
+    margin-top: 30px;
+}
+
+.ketujuh li {
+    list-style: none;
+    font-size: 18px;
+    margin-left: -30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+    color: #3C096C;
+}
